@@ -18,7 +18,7 @@ function Header() {
   };
 
   const navLinks = [
-    { label: "Home", href: "/#hero" },
+    { label: "Home", href: "/" },
     { label: "About", href: "/#about" },
     { label: "Services", href: "/#services" },
     { label: "Cars", href: "/#cars" },
