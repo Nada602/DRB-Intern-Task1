@@ -1,9 +1,9 @@
 "use client";
 import React, { useRef } from "react";
-import car1 from "../../public/Rectangle10.png";
-import car2 from "../../public/Rectangle11.png";
-import car3 from "../../public/Rectangle12.png";
-import car4 from "../../public/Rectangle10.png";
+import car1 from "@/public/Rectangle10.png";
+import car2 from"@/public/Rectangle11.png";
+import car3 from "@/public/Rectangle12.png";
+import car4 from "@/public/Rectangle11.png";
 import { StaticImageData } from "next/image";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import Slider from "react-slick";

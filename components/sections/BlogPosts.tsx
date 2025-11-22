@@ -1,11 +1,11 @@
 import React from 'react';
 import Image, { StaticImageData } from 'next/image';
-import car1 from "../../public/Gallery/Rectangle1.png";
-import car2 from "../../public/Gallery/Rectangle2.png";
-import car3 from "../../public/Gallery/Rectangle3.png";
-import car4 from "../../public/Gallery/Rectangle4.png";
-import car5 from "../../public/Gallery/Rectangle5.png";
-import car6 from "../../public/Gallery/Rectangle6.png";
+import car1 from "@/public/Gallery/Rectangle1.png";
+import car2 from "@/public/Gallery/Rectangle2.png";
+import car3 from "@/public/Gallery/Rectangle3.png";
+import car4 from "@/public/Gallery/Rectangle4.png";
+import car5 from "@/public/Gallery/Rectangle5.png";
+import car6 from "@/public/Gallery/Rectangle6.png";
 
 interface BlogPost {
   id: number;

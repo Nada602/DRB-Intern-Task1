@@ -1,4 +1,4 @@
-import servicesPhoto from "../../public/servicePhoto.png"
+import servicesPhoto from "@/public/servicePhoto.png"
 
 function Services() {
     return ( <>

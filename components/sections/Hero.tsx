@@ -1,4 +1,4 @@
-import HeroPhoto from "../../public/HeroPhoto.png";
+import HeroPhoto from "@/public/HeroPhoto.png";
 
 function Hero() {
     return (

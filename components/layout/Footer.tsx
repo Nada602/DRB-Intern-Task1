@@ -1,6 +1,6 @@
 import React from 'react';
 import {  Facebook, Instagram, Twitter, Linkedin } from 'lucide-react';
-import Logo from '../../public/Logo2.png';
+import Logo from '@/public/Logo2.png';
 import Image from 'next/image';
 // Footer Links Data
 const footerLinks = [
