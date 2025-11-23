@@ -10,7 +10,7 @@ function Hero() {
             }}
         >
             {/* Content */}
-            <div className="max-w-7xl mx-10 px-6 text-white">
+            <div className="max-w-7xl mx-20   px-6 text-white">
                 <h1 className="text-5xl md:text-6xl font-bold mb-4">
                     PURCHASE YOUR<br />
                     <span className="text-orange-500">PERFECT CAR</span>
